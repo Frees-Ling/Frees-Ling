@@ -1,10 +1,9 @@
-### Hi there 👋
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Sonic team.jpg">
  <source media="(prefers-color-scheme: light)" srcset="Sonic team.jpg">
  <img alt="Sonic" src="Sonic team.jpg">
 </picture>
-
+### Hi there 👋
 <!--
 **Frees-Ling/Frees-Ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
