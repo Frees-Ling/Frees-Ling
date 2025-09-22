@@ -1,10 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Sonic team.jpg">
- <source media="(prefers-color-scheme: light)" srcset="Sonic team.jpg">
- <img alt="Sonic" src="Sonic team.jpg">
-</picture>
 Welcome to my profile!😄</br>
-✨✨✨I'm a sonic the hedgehog's fans✨✨✨</br>
 I'm also a developer(not professional)</br>
 I like to develop something interesting</br>
 </br>
